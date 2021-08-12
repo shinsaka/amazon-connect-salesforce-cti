@@ -23,7 +23,7 @@ representations, contractual commitments, conditions or assurances from
 AWS, its affiliates, suppliers or licensors. The responsibilities and
 liabilities of AWS to its customers are controlled by AWS agreements,
 and this document is not part of, nor does it modify, any agreement
-between AWS and its customers.
+between AWS and its customers
 
 #### Abstract
 
